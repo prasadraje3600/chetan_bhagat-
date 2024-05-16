@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212902083455",
+    "project_id": "chetanbhagat-959d6",
+    "storage_bucket": "chetanbhagat-959d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212902083455:android:d99096626470e4bb92b84a",
+        "android_client_info": {
+          "package_name": "com.example.chetan_bhagat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfiU9cw-Aj5Z0AEacWLcmjPCdT3Td5e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
